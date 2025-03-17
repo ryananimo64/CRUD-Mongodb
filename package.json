@@ -1,0 +1,22 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial mongodb",
+  "main": "main.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryananimo64/CRUD-Mongodb.git"
+  },
+  "author": "Ryan Rodrigues Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryananimo64/CRUD-Mongodb/issues"
+  },
+  "homepage": "https://github.com/ryananimo64/CRUD-Mongodb#readme",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
