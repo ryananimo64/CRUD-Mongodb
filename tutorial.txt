@@ -3,8 +3,28 @@ tutorial mongo db
 Passo 1: ter instalado o MongoDB e configurar o Compass
 Passo 2: Iniciar um novo projeto node (npm init)
 Passo 3: Criar a estrutura de pasta (sistema)
-Passo 4:Instalar o mongoose(npm i mongoose)
+Passo 4: Instalar o mongoose(npm i mongoose)
 Passo 5: Criar o Módulo de conexão
+Passo 6: Importa no main os motodos conectar e desconectar
+Passo 7: Criar modelo de dados schema
+Passo 8: Importa no main o modelo(schema)
+Passo 9: Criar os metodos(Funções)
+Passo 10: Estabelecer a conexão - executar os metodos - encerrar a conexão 
 
+------------------------//------------------------------
     Atenção!! Validar a conexão (somente conectar
     se nenhuma outra conexão estiver aberta)
+-----------------------//--------------------
+CRUD - mongoose
+
+CRUD Create
+save()
+
+CRUD Read
+find()
+
+CRUD Update
+findByIdAndUpdate()
+
+CRUD Delete
+findByIdAndDelete()
